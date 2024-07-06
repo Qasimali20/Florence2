@@ -6,3 +6,4 @@ gtts
 timm
 einops
 flash_attn
+packaging
