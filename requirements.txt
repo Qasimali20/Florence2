@@ -3,6 +3,5 @@ Pillow
 transformers
 torch
 gtts
-flash_attn
 timm
 einops
